@@ -1,0 +1,17 @@
+G:\physics lab\snakegame\Customer_integ\Customer_integ\bin\Debug\Customer_integ.exe.config
+G:\physics lab\snakegame\Customer_integ\Customer_integ\bin\Debug\Customer_integ.exe
+G:\physics lab\snakegame\Customer_integ\Customer_integ\bin\Debug\Customer_integ.pdb
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ.csprojResolveAssemblyReference.cache
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Interop.Office.dll
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Interop.VSTOEE100.dll
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ.csproj.ResolveComReference.cache
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\MainWindow.g.cs
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\App.g.cs
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ_MarkupCompile.cache
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ_MarkupCompile.lref
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\MainWindow.baml
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ.g.resources
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ.Properties.Resources.resources
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ.csproj.GenerateResource.Cache
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ.exe
+G:\physics lab\snakegame\Customer_integ\Customer_integ\obj\Debug\Customer_integ.pdb
